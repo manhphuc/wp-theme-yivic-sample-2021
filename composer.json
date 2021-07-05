@@ -1,5 +1,5 @@
 {
-  "name": "manhphuc/manhphucpro",
+  "name": "yivic/yivic-sample-2021",
   "type": "wordpress-theme",
   "license": "GPL-2.0-or-later",
   "description": "Main theme for ManhPhucPro write by PhucNguyen",
@@ -23,8 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ManhPhuc\\Wp\\ManhPhucPro\\": "src",
-      "ManhPhuc\\Wp\\ManhPhucPro\\Inc\\Widgets\\": "inc/widgets"
+      "Yivic\\Wp\\YivicSample2021\\": "src"
     }
   },
   "minimum-stability": "stable"

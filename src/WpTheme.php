@@ -6,7 +6,7 @@
  * Time: 17:03 PM
  */
 
-namespace ManhPhuc\Wp\ManhPhucPro;
+namespace Yivic\Wp\YivicSample2021;
 
 class WpTheme extends \ManhPhuc\Wp\ManhPhucBase\Component\WpTheme {
 
