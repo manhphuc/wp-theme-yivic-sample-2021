@@ -1,0 +1,24 @@
+{
+  "name": "yivic/yivic-sample-2021",
+  "description": "Sample theme in 2021 from Yivic, need Yivic Base to work.",
+  "type": "wordpress-theme",
+  "authors": [
+    {
+      "name": "Phuc Nguyen",
+      "email": "manhphucofficial@yahoo.com"
+    },
+    {
+      "name": "Yivic",
+      "email": "contact@yivic.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yivic\\Wp\\YivicSample2021\\": "src"
+    }
+  },
+  "minimum-stability": "stable"
+}
